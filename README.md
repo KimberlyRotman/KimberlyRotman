@@ -77,4 +77,20 @@
           @    @           @@    @@            @@            @     @         @@    @@           @@  @@@@                                       
           @     @           @@@@@@             @@            @     @        @@      @@          @@   @@@                                       
 
+
 ```
+# About Me
+```
+ Name:..........Kimberly Rotman Mendonça Santos
+ Nationality:........................Brazillian
+ Birth_Date:.........................18/12/2004
+ Lenguages:........English, Portuguese, Spanish
+```
+ # About How I Develop
+ ```
+ SO:...................Ubuntu, Debian, Raspbian
+ IDEs:......VScode, Fusion Autocad, Arduino IDE
+ Lenguages:.......C++, Java, Javascript, Python
+```
+
+
